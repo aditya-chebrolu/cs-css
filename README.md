@@ -1,11 +1,11 @@
 # CSS Cheatsheet
+
 1. **No Scroll bar**
    ```css
    ::-webkit-scrollbar {
     display: none;
    }
    ```
-
 2. **Remove type="number"the arrow at the end**
     ```css
     input::-webkit-outer-spin-button,
